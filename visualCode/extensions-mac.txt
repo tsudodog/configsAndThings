@@ -1,0 +1,11 @@
+dsznajder.es7-react-js-snippets-1.8.6
+eamodio.gitlens-8.5.6
+equimper.react-native-react-redux-1.9.1
+felixfbecker.php-intellisense-2.3.5
+hoovercj.haskell-linter-0.0.6
+humao.rest-client-0.19.1
+justusadam.language-haskell-2.5.0
+robertohuertasm.vscode-icons-7.26.0
+tungvn.wordpress-snippet-1.1.5
+vsmobile.vscode-react-native-0.6.16
+yzhang.markdown-all-in-one-1.6.0
